@@ -30,6 +30,7 @@ University of Washington ([Bioresource Science & Engineering](https://www.washin
 - [GitHub](https://github.com/samscha)
 - [Portfolio](https://samscha.com)
 - [Blog](https://medium.com/@samscha)
+- [Resume](https://www.dropbox.com/sh/yt9ranplcay5fzv/AACaaiWtaVz8m_w06Zg1Jzl2a?dl=0)
 
 ## Dev
 
