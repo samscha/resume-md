@@ -4,7 +4,7 @@ chasamuels@gmail.com
 
 ## Skills
 
-JavaScript, React, React Native, Express, Node, Java, Spring, MongoDB, PostgreSQL, C, Python, Django, SQL
+JavaScript, React, React Native, Express, Node, Java, Spring, MongoDB, PostgreSQL
 
 ## Projects
 
